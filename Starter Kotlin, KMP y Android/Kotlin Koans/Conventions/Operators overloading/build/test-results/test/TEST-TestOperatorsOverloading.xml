@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestOperatorsOverloading" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-08-04T11:56:14" hostname="detivenc" time="0.008">
-  <properties/>
-  <testcase name="testOneMonth" classname="TestOperatorsOverloading" time="0.005"/>
-  <testcase name="testAddOneTimeInterval" classname="TestOperatorsOverloading" time="0.001"/>
-  <testcase name="testMonthChange" classname="TestOperatorsOverloading" time="0.001"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

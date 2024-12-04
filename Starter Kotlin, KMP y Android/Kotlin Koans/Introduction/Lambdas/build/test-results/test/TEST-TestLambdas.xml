@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestLambdas" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-08-04T10:34:13" hostname="detivenc" time="0.021">
-  <properties/>
-  <testcase name="contains" classname="TestLambdas" time="0.02"/>
-  <testcase name="notContains" classname="TestLambdas" time="0.001"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
